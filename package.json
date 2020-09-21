@@ -11,5 +11,8 @@
   "license": "ISC",
   "repository": {
     "url": "git://github.com/imsakararyal/newtest.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@imsakararyal"
   }
 }
